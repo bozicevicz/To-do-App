@@ -1,5 +1,7 @@
 # To-do-App
 
+Link to deployed:
+
 ![Model](https://github.com/bozicevicz/To-do-App/blob/main/To-do-App.jpg)
 
 # Getting Started with Create React App
