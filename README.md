@@ -1,6 +1,6 @@
 # To-do-App
 
-Link to deployed:
+Link to deployed: https://bozicevicz-to-do-app.netlify.app/
 
 ![Model](https://github.com/bozicevicz/To-do-App/blob/main/To-do-App.jpg)
 
